@@ -2,7 +2,7 @@
 name = "fuquila-pp-py"
 version = "0.9.5"
 description = "osu! difficulty and pp calculation for all modes"
-authors = ["Max Ohn <ohn.m@hotmail.de>", "tsunyoku <tsunyoku@gmail.com>", "Aochi <aochi@fuquila.net">]
+authors = ["Max Ohn <ohn.m@hotmail.de>", "tsunyoku <tsunyoku@gmail.com>", "Aochi <aochi@fuquila.net>"]
 license = "MIT"
 edition = "2021"
 
