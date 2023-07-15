@@ -1,4 +1,4 @@
-use akatsuki_pp::{
+use fuquila_pp::{
     osu::{OsuDifficultyAttributes, OsuPerformanceAttributes},
     osu_2019::OsuPP,
     AnyPP, AnyStars, DifficultyAttributes, GameMode, Mods, PerformanceAttributes,
