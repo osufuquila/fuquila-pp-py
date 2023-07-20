@@ -1,6 +1,6 @@
 [package]
 name = "fuquila-pp-py"
-version = "0.9.5"
+version = "0.9.6"
 description = "osu! difficulty and pp calculation for all modes"
 authors = ["Max Ohn <ohn.m@hotmail.de>", "tsunyoku <tsunyoku@gmail.com>", "Aochi <aochi@fuquila.net>"]
 license = "MIT"
@@ -12,7 +12,7 @@ crate-type = ["cdylib"]
 
 [dependencies]
 pyo3 = { version = "0.17", features = ["extension-module", "macros"] }
-fuquila-pp = { git = "https://github.com/osufuquila/fuquila-pp-rs", rev = "6c6dc30f3c760be4b6b7ec14e76d5eb536444212" }
+fuquila-pp = { git = "https://github.com/osufuquila/fuquila-pp-rs", rev = "557c3b2667e035537b34633ef4520afa65d1b5e7" }
 
 [profile.release]
 lto = "fat"
