@@ -12,7 +12,7 @@ crate-type = ["cdylib"]
 
 [dependencies]
 pyo3 = { version = "0.17", features = ["extension-module", "macros"] }
-fuquila-pp = { git = "https://github.com/osufuquila/fuquila-pp-rs", rev = "557c3b2667e035537b34633ef4520afa65d1b5e7" }
+fuquila-pp = { git = "https://github.com/osufuquila/fuquila-pp-rs", rev = "149e9b4c2018da27eeb18074810dd72406e0fbca" }
 
 [profile.release]
 lto = "fat"
